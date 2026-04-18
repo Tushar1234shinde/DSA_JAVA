@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module complete_java {
-}
